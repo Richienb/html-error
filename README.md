@@ -1,5 +1,5 @@
 # HTML Error
-A simple site to display any error with your own.
+A simple site to display any type of error.
 
 ## Usage
 Link/redirect to the following site
